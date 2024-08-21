@@ -1,4 +1,4 @@
-Video: ""
+Video: https://www.youtube.com/watch?v=8E6c6BAzsyo
 
 This project is a personal endeavor I worked on in my free time to practice Tkinter, Python, and Sockets. My goal was to create a fully functional chatting application.
 
