@@ -1,1 +1,25 @@
-Initial README commit.
+Video: ""
+
+This project is a personal endeavor I worked on in my free time to practice Tkinter, Python, and Sockets. My goal was to create a fully functional chatting application.
+
+The software includes the following features:
+
+Selecting a username.
+Displaying the number of users connected to the server.
+Sending and receiving messages.
+Sending and receiving nudges (exactly like MSN).
+Sending and receiving images via links.
+Storing chat history in a text file to view previous messages when the app is reopened (I know that this is not the most secure method :D).
+Deleting chats and chat history.
+Notifications when the app is minimized (only works on macOS).
+Notification and nudge sounds.
+
+Personal Outcomes:
+
+Learned how to create and use local servers using sockets.
+Improved my ability to create graphical user interfaces with Tkinter.
+Learned how to trigger notifications in macOS.
+Enhanced my skills in using regular expressions.
+Learned how to play sound in Python.
+Gained experience using the ImgurClient API.
+Dependencies: Python, Tkinter, Sockets, Playsound, ImgurClient, re.
